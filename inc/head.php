@@ -5,6 +5,8 @@
     <title>FBI | X-Files archives</title>
     <link rel="stylesheet" href="assets/bootstrap.css"/>
     <link rel="stylesheet" href="assets/custom.css"/>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+    <script>tinymce.init({ selector:'textarea' });</script>
 </head>
 <body>
 <nav class="navbar navbar-default">
